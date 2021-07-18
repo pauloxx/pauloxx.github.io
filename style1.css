@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+}
+div{
+
+  width: 80%;
+  background-color: rgba(50, 168, 155,0.3);
+  margin: auto;
+}
+.sub{
+  width: 33.3%;
+  height: 25%;
+  border: 2px solid green;
+  box-sizing: border-box;
+  float: left;
+
+}
+.sub>img{
+  width: 100%;
+  margin-top: 5px
+}
