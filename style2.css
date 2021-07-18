@@ -1,0 +1,96 @@
+body{
+  font-family: sans-serif;
+}
+.menubox{
+  text-align: center;
+}
+.cr{
+  text-align: center;
+}
+.topimg>img{
+  width: 10%;
+}
+.iceland{
+  float: right;
+}
+h1{
+  text-align: center;
+}
+
+
+.block1{
+  width: 100%;
+  height: 50vh;
+  background-color: rgba(50, 168, 155,0.3);
+  margin: auto;
+  border: 2px solid black;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+.sub{
+  width: 50%;
+  height: 50%;
+  box-sizing: border-box;
+  float: left;
+  padding-left: 3%;
+  padding-top: 1%;
+
+
+}
+.sub>img{
+  width: 220px;
+  border: 2px solid black;
+
+}
+
+
+table{
+  border: 2px solid black;
+}
+.red{
+  background-color: rgb(226, 140, 155);
+}
+th{
+  background-color: rgb(50, 240, 155);
+}
+
+.contactus{
+  width: 20%;
+  margin-left: 40px;
+
+}
+.contactus>img{
+  width:25%;
+}
+
+}
+.sub1{
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+
+
+.box2{
+  width: 100%;
+  margin: auto;
+}
+.sub2{
+  width: 33.3%;
+  box-sizing: border-box;
+  float: left;
+}
+.text{
+  overflow: scroll;
+  height:235px;
+  border: 5px solid rgb(76, 147, 254);
+  margin-left:-32px;
+  margin-right: 3px;
+  padding: 20px 20px;
+  background-color:rgb(184, 221, 215)
+}
+.sub2>img{
+  width: 90%;height: 280px;
+  border: 2px solid black
+}
