@@ -1,0 +1,80 @@
+body{
+  background: linear-gradient(270deg, rgb(245, 140, 90), rgb(117, 19, 93));
+  font-family: sans-serif;
+  color: white;
+}
+.topline{
+  width: 100%;
+  margin-top: 2%;
+}
+.instruction{
+  width: 90%;
+  float: left;
+}
+.button{
+  text-decoration: none;
+  color: white;
+  padding: 12px;
+  background-color: rgb(110, 170, 220);
+  border: 2px solid yellow;
+  border-radius: 5px;
+
+}
+.button:hover{
+  background-color: aliceblue;
+  color: black;
+}
+.play{
+  font-size: 17px;
+}
+.middle{
+  width: 100%;
+}
+.middle>p{
+  text-align: center;
+  font-size: 30px;
+}
+.center{
+  font-size: 50px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin-left: 42%;
+  width: 100px;
+}
+.line{
+  border: 2px solid white;
+  height: 0px;
+  margin-top: -50px;
+}
+.block{
+  width: 100%;
+}
+.sub{
+  width: 40%;
+  float: left;
+  margin-left: 4%;
+  margin-top: 100px;
+  text-align: center;
+  margin-right: 4%;
+  height: 250px;
+}
+.userInput{
+  height: 90px;
+  background-color: transparent;
+  font-size: 40px;
+  width: 150px;
+  text-align: center;
+}
+.check{
+  margin-top: 40px;
+}
+.sub1{
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  margin-top: 400px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
